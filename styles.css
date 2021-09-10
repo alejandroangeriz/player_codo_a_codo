@@ -4,7 +4,7 @@
     margin: 0;
 
 }
-body{
+body main div{
     font-family: 'Merriweather', serif;
 }
 nav{
@@ -48,7 +48,6 @@ a:hover{
 .menu-icon{
     order: 1;
 }
-
 
 .item.button{
     order: 2;
